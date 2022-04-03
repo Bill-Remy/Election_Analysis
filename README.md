@@ -14,8 +14,7 @@
 ## Election Analyis Audit Results
 
     The results of the election audit are as follows:
-
-    * Total Votes Cast = 369,711
+        * Total Votes Cast = 369,711
     * Votes cast by county are percentage of total votes:
             - Jefferson: 10.5% (38,855)
             - Denver: 82.8% (306,055)
