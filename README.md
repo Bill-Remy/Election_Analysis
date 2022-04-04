@@ -35,7 +35,7 @@ The project delivered the items requested by the Election Committe as requested 
 
 Additional analytical elements that might prove useful to the committee or public are as follows:
 
-        1. Provide an analysis by county of total votes cast for each candidate.
-        2. Analyhze by county if a candidate other than the overall winner received more votes 
+    1. Provide an analysis by county of total votes cast for each candidate.
+    2. Winning candidate by county. 
 
 If additional voter demographics such as political party, household size, income levels or ehtnicity were included in the results data then additional analysis could be conducted to understand more in depth voting behaviors both overall and by county.
