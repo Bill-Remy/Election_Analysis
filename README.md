@@ -17,8 +17,8 @@ The results of the election audit are as follows:
 - Total Votes Cast = 369,711
 - Votes cast by county are percentage of total votes:
     + Jefferson: 10.5% (38,855)
-            - Denver: 82.8% (306,055)
-            - Arapahoe: 6.7% (24,801)
+    + Denver: 82.8% (306,055)
+    + Arapahoe: 6.7% (24,801)
 - County with the larges voter turnout was **Denver** 
 - Votes cast for each candidate and thier respective percentage of the vote:
             - Charles Casper Stockham: 23.0% (85,213)
