@@ -19,7 +19,7 @@
             - Jefferson: 10.5% (38,855)
             - Denver: 82.8% (306,055)
             - Arapahoe: 6.7% (24,801)
-- County with the larges voter turnout was Denver couty
+- County with the larges voter turnout was **Denver** couty
 - Votes cast for each candidate and thier repspective percentage of vote:
             - Charles Casper Stockham: 23.0% (85,213)
             - Diana DeGette: 73.8% (272,892)
